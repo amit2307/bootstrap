@@ -1,0 +1,9 @@
+// Cypher Question
+Their are N people standing in queue. Each Person is wearning a dress which is assigned number X. Since nobody like to wear same dress so they decided that some member should change dress. Changing of dress should be done in such way that after some member have changed dress no member should have same dress. Cost of incresing or decreasing dress one unit is one unit.
+
+Input :
+First line contains N number of people in queue.
+Next line contains N space seprated integer denoting number of people in queue.
+
+Output :
+Output a single integer minimum cost to make every member dress unique.
